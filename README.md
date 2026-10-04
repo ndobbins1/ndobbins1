@@ -14,7 +14,7 @@ My goal is to gain hands-on experience through an IT or cybersecurity internship
 
 | Skill                                         | Experience         |
 |-----------------------------------------------|----------------------------|
-| IT Troubleshooting | Hands-on ServiceDesk Simulator and TestOut labs involving VPN, MFA, connectivity, remote access support, peripheral device installation, ticket handling, and user support scenarios|
+| IT Troubleshooting | Hands-on experience with VPN, MFA, connectivity, remote access support, peripheral device installation, and ticket handling through a <a href="https://github.com/ndobbins1/VPN-Disconnects-and-Won-t-Reconnect">ServiceDesk Simulator lab</a>, plus additional IT support labs completed in TestOut |
 | PC Hardware & Operating Systems | Experience assembling and disassembling PCs, installing and configuring Windows 11, managing basic user and system settings in Active Directory, and using Task Manager and Event Viewer for system monitoring and troubleshooting|
 | Network Configuration & Troubleshooting | Hands-on experience with Cisco Packet Tracer configuring and troubleshooting networks, IP addressing, routers and switches, ACLs, and network monitoring; introductory experience with Wireshark and Nmap |
 | Incident Response & Business Continuity Planning | Coursework involving incident response procedures, business impact analysis, disaster recovery, risk assessment, and continuity planning|
@@ -64,7 +64,7 @@ In Progress
 </div>
 
 ## Projects
-- ServiceDesk Simulator: VPN Disconnected and Won't Reconnect
+- <a href="https://github.com/ndobbins1/VPN-Disconnects-and-Won-t-Reconnect/tree/main"> ServiceDesk Simulator: VPN Disconnected and Won't Reconnect
   
 
 <!--
