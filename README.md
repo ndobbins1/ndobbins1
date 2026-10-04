@@ -8,14 +8,14 @@ I am a second-year cybersecurity student at Ivy Tech Community College with inte
 ## Objective
 
 
-As a second-year cybersecurity student, my goal is to gain hands-on experience through an IT or cybersecurity internship while building skills in identity and access management, troubleshooting, and security operations. I plan to earn my bachelor’s degree and pursue a career in cybersecurity, with a focus on IAM and related security roles.
+My goal is to gain hands-on experience through an IT or cybersecurity internship while developing skills in identity and access management, troubleshooting, and security operations. I plan to earn my bachelor’s degree and pursue a career in cybersecurity, with a focus on IAM and related security roles.
 
 ## Skills
 
 | Skill                                         | Experience         |
 |-----------------------------------------------|----------------------------|
-| IT Troubleshooting & Service Desk | Hands-on ServiceDesk Simulator and TestOut labs involving VPN, MFA, connectivity, remote access support, peripheral device installation, ticket handling, and user support scenarios|
-| PC Hardware & Operating System | Experience assembling and disassembling PCs, installing and configuring Windows 11, managing basic user and system settings in Active Directory, and using Task Manager and Event Viewer for system monitoring and troubleshooting|
+| IT Troubleshooting | Hands-on ServiceDesk Simulator and TestOut labs involving VPN, MFA, connectivity, remote access support, peripheral device installation, ticket handling, and user support scenarios|
+| PC Hardware & Operating Systems | Experience assembling and disassembling PCs, installing and configuring Windows 11, managing basic user and system settings in Active Directory, and using Task Manager and Event Viewer for system monitoring and troubleshooting|
 | Network Configuration & Troubleshooting | Hands-on experience with Cisco Packet Tracer configuring and troubleshooting networks, IP addressing, routers and switches, ACLs, and network monitoring; introductory experience with Wireshark and Nmap |
 | Incident Response & Business Continuity Planning | Coursework involving incident response procedures, business impact analysis, disaster recovery, risk assessment, and continuity planning|
 | Virtualization | Creating, configuring, and running basic virtual machines for labs and testing|
@@ -23,7 +23,7 @@ As a second-year cybersecurity student, my goal is to gain hands-on experience t
 
 ## Tools
 
-### Network
+### Networking
 <div>
   <img src="https://img.shields.io/badge/-Cisco_Packet_Tracer-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white" />
