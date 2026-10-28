@@ -10,16 +10,21 @@ I am a second-year cybersecurity student at Ivy Tech Community College with inte
 
 My goal is to gain hands-on experience through an IT or cybersecurity internship while developing skills in identity and access management, troubleshooting, and security operations. I plan to earn my bachelor’s degree and pursue a career in cybersecurity, with a focus on IAM and related security roles.
 
+## Projects
+- <a href="https://github.com/ndobbins1/VPN-Disconnects-and-Won-t-Reconnect/tree/main"> ServiceDesk Simulator: VPN Disconnected and Won't Reconnect
+- <a href="https://github.com/ndobbins1/Active-Directory-Home-Lab/tree/main"> Active Directory Home Lab — In Progress
+
 ## Skills
 
 | Skill                                         | Experience         |
 |-----------------------------------------------|----------------------------|
 | IT Troubleshooting | Hands-on experience with VPN, MFA, connectivity, remote access support, peripheral device installation, and ticket handling through a <a href="https://github.com/ndobbins1/VPN-Disconnects-and-Won-t-Reconnect">ServiceDesk Simulator lab</a>, plus additional IT support labs completed in TestOut |
-| PC Hardware & Operating Systems | Experience assembling and disassembling PCs, installing and configuring Windows 11, managing basic user and system settings in Active Directory, and using Task Manager and Event Viewer for system monitoring and troubleshooting|
+| PC Hardware & Operating Systems | Experience assembling and disassembling PCs, installing and configuring Windows 11, managing user and system settings in Active Directory, and using Task Manager and Event Viewer for system monitoring and troubleshooting|
+| Active Directory & Access Management | Hands-on experience building an <a href="https://github.com/ndobbins1/Active-Directory-Home-Lab">Active Directory Home Lab</a> to practice user and group management, permissions, domain administration, acess changes, and troubleshooting|
 | Network Configuration & Troubleshooting | Hands-on experience with Cisco Packet Tracer configuring and troubleshooting networks, IP addressing, routers and switches, ACLs, and network monitoring; introductory experience with Wireshark and Nmap |
 | Incident Response & Business Continuity Planning | Coursework involving incident response procedures, business impact analysis, disaster recovery, risk assessment, and continuity planning|
-| Virtualization | Creating, configuring, and running basic virtual machines for labs and testing|
-| Cybersecurity Fundamentals | Coursework and labs involving access control, network security, authentication, and security best practices|
+| Virtualization | Creating and configuring VirtualBox lab environments using Windows Server and Windows client VMs for Active Directory, IT support, and cybersecurity practice|
+| Cybersecurity Fundamentals | Coursework and labs involving access control, authentication, network security, least privilege, security policies, and security best practices|
 
 ## Tools
 
@@ -62,9 +67,6 @@ In Progress
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
 </div>
-
-## Projects
-- <a href="https://github.com/ndobbins1/VPN-Disconnects-and-Won-t-Reconnect/tree/main"> ServiceDesk Simulator: VPN Disconnected and Won't Reconnect
   
 
 <!--
